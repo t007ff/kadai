@@ -2,7 +2,7 @@
 int main(void)
 {
 
-	puts("tintin");
+	puts("g011vg");
 
 	return 0;
 }
